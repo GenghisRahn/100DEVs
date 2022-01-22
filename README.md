@@ -1,1 +1,1 @@
-# 100DEVs
+# This is the repository for my deep dive into 100DEVS, which is a web development bootcamp that is all about bringing people up based on their willingness to make it happen. I'm amazingly fortunate to have this opportunity and I plan on doing absolutely everything I can to take advantage of it. No giving up baby WE GO GET!
